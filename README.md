@@ -30,7 +30,6 @@ This project was created to:
 * Practice programming logic
 * Improve Java skills
 * Learn Object-Oriented Programming
-* Prepare for internships and junior developer positions
 
 ---
 
@@ -49,12 +48,6 @@ git clone https://github.com/your-username/your-repository.git
 * VS Code
 
 3. Run the `App.java` file
-
----
-
-## 📈 Status
-
-🚧 In progress
 
 ---
 
